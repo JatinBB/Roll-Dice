@@ -31,6 +31,14 @@ The app follows a simple yet effective architecture:
 - **State Management**: The app uses the `setState` method to trigger UI updates whenever the dice is rolled.
 - **Audio Handling**: The `AudioPlayer` instance manages the playback of the dice roll sound.
 
+## Prerequisites
+
+**Flutter SDK:** Ensure you have the Flutter SDK installed on your machine. You can download it from the official Flutter website.
+
+**Dart SDK:** Dart is bundled with the Flutter SDK, but if you're using Dart separately, ensure you have the Dart SDK installed. You can download it from the official Dart website.
+
+**Development Environment:** Make sure your development environment is set up according to the Flutter installation guide for your operating system.
+
 ## Installation
 
 To run this project locally, follow these steps:
@@ -47,10 +55,3 @@ To run this project locally, follow these steps:
 4. **Run the App:**
    ```bash
    flutter run
-## Prerequisites
-
-**Flutter SDK:** Ensure you have the Flutter SDK installed on your machine. You can download it from the official Flutter website.
-
-**Dart SDK:** Dart is bundled with the Flutter SDK, but if you're using Dart separately, ensure you have the Dart SDK installed. You can download it from the official Dart website.
-
-**Development Environment:** Make sure your development environment is set up according to the Flutter installation guide for your operating system.
